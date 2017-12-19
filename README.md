@@ -1,4 +1,6 @@
 # qt
+
+<pre>
 qt creator v5.9 
 
 if you want exec the project . you must make sure you have installed mysql database.
@@ -13,7 +15,6 @@ database Test
 
 table:stu
 
-<pre>
 +-------+-------------+------+-----+---------+-------+ 
 | Field | Type        | Null | Key | Default | Extra |  
 +-------+-------------+------+-----+---------+-------+ 
