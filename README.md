@@ -3,6 +3,8 @@
 <pre>
 qt creator v5.9 
 
+os:linux
+
 if you want exec the project . you must make sure you have installed mysql database.
 and confirm your database like this
 
